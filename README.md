@@ -8,7 +8,7 @@
 
 🌱 Learning: Machine Learning concepts, Deep Learning basics, and Data Engineering fundamentals
 
-🌐 LinkedIn: https://www.linkedin.com/in/harin-g-33638235a
+🌐 LinkedIn: https://www.linkedin.com/in/harin-g
 
 📫 Email: [haringeddam2580@gmail.com](mailto:haringeddam2580@gmail.com)
 
