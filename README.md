@@ -10,7 +10,7 @@
 
 🌐 LinkedIn: https://www.linkedin.com/in/harin-g
 
-📫 Email: [haringeddam2580@gmail.com](mailto:haringeddam2580@gmail.com)
+📫 Email: [haringeddam2708@gmail.com](mailto:haringeddam2708@gmail.com)
 
 ## Tech Stack
 
